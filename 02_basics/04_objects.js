@@ -88,6 +88,6 @@ const {courseInstructor:instructor}=course //this is object destructuring
 // the APIs can be fetched according to the need and the json 
 //formatter tool is used to elaborate and make the text of API in
 //a readable format.
-
+// This is only the basic of APIs .
 
 
